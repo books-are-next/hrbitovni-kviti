@@ -4,7 +4,7 @@ hiddenTitle: true
 contentType: prose
 ---
 
-     _Na pahorku leží pole chudé —_
+     Na pahorku leží pole chudé —  
 
 > ostrov v časů proudu — málo znáno,  
 > jako skříně skvostné na poklady  
@@ -19,3 +19,106 @@ contentType: prose
 > poutcova jak k hrobu spasitele,  
 > bych zřel místo, čtvrtá zim kde stlala  
 > sabatový šat svůj na přítele.
+
+
+
+     Zelená se tráva po hřbitově.  
+
+> Snad jí nasilo zde ptactvo zpěvné?  
+> Naděje spíš že to pohrobené  
+> zase vzešly, by snad bylo zjevné.
+
+>      Červená se kvítí po hřbitově.  
+> Snad ho sázela zde lidská ruka?  
+> Ba spíš myslím, že to pohrobená  
+> láska jest i její drahá muka.
+
+>      Však i zažloutlé zde bejlí hnusné  
+> porodila v bolu země pustá, —  
+> aj ta podoba zlých vášní jistě,  
+> ta z tvých prsou, bratře, nevyrůstá.
+
+
+
+     Ticho — jako ráno v dálném poli,  
+
+> kdesi jenom o kov hruda zvoní, —  
+> aj, to stařec, — opřen o lopatu  
+> k zemi shrblá záda pracně kloní.
+
+>      „Nevíš, kde zde přítel leží?“ — „Čím byl?“  
+> „Čím měl býti, blázne, — člověkem!“  
+> „A jak umřel?“ — „Puklo mu jen srdce,  
+> že mu oplatila lásku nevděkem!“
+
+>      „A kdy skonal?“ — „Není dávno tomu!“  
+> „Kde by asi ležel, nevím víc;  
+> neboť věřte, kterým srdce puklo,  
+> že jich leží tuto na tisíc.“
+
+
+
+     Porodila rosa kvítek malý  
+
+> po zářivém slunci prahnoucí, —  
+> duch tvůj jarý zrodil ideály  
+> mile čistou myslí vanoucí.
+
+>      Zahrálo si slunce ranním květem,  
+> a juž kvítek slabou hlavu kloní, —  
+> a tvé oko nad zbořeným světem  
+> ideálů hořkou slzu roní.
+
+>      Co květ toužil, přece vyplněno —  
+> políbením slunce uvadnul —  
+> tobě osud dal však jiné věno —  
+> snové prchli, ty jsi uchřadnul.
+
+
+
+     Byl jsi chud — však bujní tvoji snové  
+
+> nasypali po cestách tvých zlato;  
+> však že zlato sypali ti snové,  
+> nedal svět ti ani chleba za to.
+
+>      Nebyls krásným — chtěl’s však dobýti si  
+> od dívčiny marné věrnou lásku;  
+> přišel jiný, pustil jsi se v závod,  
+> pustil jsi se v závod — prohrál’s sázku.
+
+
+
+     Zval tě osud k nešťastníků kvasu; —  
+
+> sotva vyřknul slova neblahá,  
+> (abys slušně obstál při hostině)  
+> počal svlíkat tebe do naha.
+
+>      Upletl i věnec krásný z blínu,  
+> položil ho tobě na čelo,  
+> pak tě v sál uvedl, nad nímž slovo  
+> „bída“ v hadů kruhu šumělo.
+
+>      Kolem stolu živé kostry stály,  
+> stolem jim zde hlad byl mořivý,  
+> hudba k tomu kvasu skočnou hrála —  
+> nešťastných to stenot jizlivý.
+
+>      A když přesycen byl’s lahůdkami,  
+> umdlen plesem tmavé do noci,  
+> tu tě uložili v měkké lože,  
+> v lože, kteréž sloulo „nemocí“.
+
+
+
+     Líhávali na jednom jsme loži,  
+
+> a tys horlil pro mou netečnost,  
+> kdežto bažit po tvých ideálech  
+> vadila mně pouhá skutečnost.
+
+>      A ta skutečnost juž shromáždila  
+> tisícerých v krátkém žití bolů,  
+> srdce vadne, brzo, nejspíš brzo  
+> poležíme sobě opět spolu.
