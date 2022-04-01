@@ -1,8 +1,7 @@
 ---
+title: XLV.
 contentType: prose
 ---
-
-XLV.
 
 >      Nad blázincem věž se štíhlá vzpíná,  
 > jako pomoc z nebes dálných vzývá,  

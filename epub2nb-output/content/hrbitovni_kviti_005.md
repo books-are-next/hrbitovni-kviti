@@ -1,12 +1,13 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Památce  
+_Památce  
 časně zemřelého přítele svého,  
 nezapomenutelnému  
    
 ANTONÍNU TOLLMANNOVI  
    
 věnuje  
-                              básník
+                              básník_

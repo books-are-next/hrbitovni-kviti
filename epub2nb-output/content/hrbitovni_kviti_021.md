@@ -1,8 +1,7 @@
 ---
+title: VII.
 contentType: prose
 ---
-
-VII.
 
 >      Z šedých mračen dešť se hustý lije,  
 > po dláždění voda proudem teče,  

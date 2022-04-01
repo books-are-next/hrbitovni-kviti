@@ -1,8 +1,7 @@
 ---
+title: XVII.
 contentType: prose
 ---
-
-XVII.
 
 >      Neplač, neplač, brachu, nenaříkej,  
 > že je záhad v světě k znavení,  

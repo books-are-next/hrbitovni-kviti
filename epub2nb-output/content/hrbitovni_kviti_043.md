@@ -1,8 +1,7 @@
 ---
+title: XXIX.
 contentType: prose
 ---
-
-XXIX.
 
 >      Blázny jsem si dělal z hezké děvy,  
 > nazpíval jsem o lásce jí mnoho,  

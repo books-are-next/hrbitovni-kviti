@@ -1,8 +1,7 @@
 ---
+title: XXV.
 contentType: prose
 ---
-
-XXV.
 
 >      Lehko nyní zamilovanému;  
 > co se chuďas dříve navzdychal,  

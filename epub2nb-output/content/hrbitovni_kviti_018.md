@@ -1,8 +1,7 @@
 ---
+title: IV.
 contentType: prose
 ---
-
-IV.
 
 >      Nač zde sklonných vrbin u ohradě  
 > dóm ten pyšný jesti zbudován?  

@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Líhávali na jednom jsme loži,  
+     _Líhávali na jednom jsme loži,_
 
 > a tys horlil pro mou netečnost,  
 > kdežto bažit po tvých ideálech  

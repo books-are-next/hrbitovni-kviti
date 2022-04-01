@@ -1,8 +1,7 @@
 ---
+title: XXVIII.
 contentType: prose
 ---
-
-XXVIII.
 
 >      Láska shořela jak tenká svíce,  
 > která ve průvanu zaplála,  

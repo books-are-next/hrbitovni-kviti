@@ -1,0 +1,1370 @@
+{
+  "author": "Jan Neruda",
+  "contenttype": "poetry",
+  "edition": "beletrie",
+  "identifier": "neruda-hrbitovni-kviti-de2bf22",
+  "languagecode": "cs",
+  "modified": "2021-12-20T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Hřbitovní kvítí",
+  "revision": "de2bf22",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 15:03:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648825420846
+  },
+  "documents": [
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hrbitovni_kviti_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "hrbitovni_kviti_001.html",
+      "next": "hrbitovni_kviti_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_003.html",
+      "words": 4,
+      "chars": 25,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hrbitovni_kviti_002.html",
+      "next": "hrbitovni_kviti_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_004.html",
+      "words": 88,
+      "chars": 562,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hrbitovni_kviti_003.html",
+      "next": "hrbitovni_kviti_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hrbitovni_kviti_004.html",
+      "next": "hrbitovni_kviti_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_006.html",
+      "words": 20,
+      "chars": 127,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hrbitovni_kviti_005.html",
+      "next": "hrbitovni_kviti_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_007.html",
+      "words": 66,
+      "chars": 362,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hrbitovni_kviti_006.html",
+      "next": "hrbitovni_kviti_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_008.html",
+      "words": 70,
+      "chars": 372,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hrbitovni_kviti_007.html",
+      "next": "hrbitovni_kviti_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_009.html",
+      "words": 79,
+      "chars": 398,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hrbitovni_kviti_008.html",
+      "next": "hrbitovni_kviti_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_010.html",
+      "words": 63,
+      "chars": 348,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hrbitovni_kviti_009.html",
+      "next": "hrbitovni_kviti_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_011.html",
+      "words": 54,
+      "chars": 275,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hrbitovni_kviti_010.html",
+      "next": "hrbitovni_kviti_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_012.html",
+      "words": 89,
+      "chars": 481,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 11,
+      "prev": "hrbitovni_kviti_011.html",
+      "next": "hrbitovni_kviti_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_013.html",
+      "words": 40,
+      "chars": 237,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 12,
+      "prev": "hrbitovni_kviti_012.html",
+      "next": "hrbitovni_kviti_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_014.html",
+      "words": 45,
+      "chars": 275,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 13,
+      "prev": "hrbitovni_kviti_013.html",
+      "next": "hrbitovni_kviti_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_015.html",
+      "words": 46,
+      "chars": 250,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 14,
+      "prev": "hrbitovni_kviti_014.html",
+      "next": "hrbitovni_kviti_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_016.html",
+      "words": 44,
+      "chars": 240,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 15,
+      "prev": "hrbitovni_kviti_015.html",
+      "next": "hrbitovni_kviti_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_017.html",
+      "words": 84,
+      "chars": 469,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 16,
+      "prev": "hrbitovni_kviti_016.html",
+      "next": "hrbitovni_kviti_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_018.html",
+      "words": 61,
+      "chars": 355,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 17,
+      "prev": "hrbitovni_kviti_017.html",
+      "next": "hrbitovni_kviti_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_019.html",
+      "words": 36,
+      "chars": 231,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "hrbitovni_kviti_018.html",
+      "next": "hrbitovni_kviti_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_020.html",
+      "words": 110,
+      "chars": 606,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 19,
+      "prev": "hrbitovni_kviti_019.html",
+      "next": "hrbitovni_kviti_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_021.html",
+      "words": 119,
+      "chars": 649,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 20,
+      "prev": "hrbitovni_kviti_020.html",
+      "next": "hrbitovni_kviti_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_022.html",
+      "words": 76,
+      "chars": 402,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 21,
+      "prev": "hrbitovni_kviti_021.html",
+      "next": "hrbitovni_kviti_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_023.html",
+      "words": 40,
+      "chars": 221,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 22,
+      "prev": "hrbitovni_kviti_022.html",
+      "next": "hrbitovni_kviti_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_024.html",
+      "words": 92,
+      "chars": 530,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 23,
+      "prev": "hrbitovni_kviti_023.html",
+      "next": "hrbitovni_kviti_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_025.html",
+      "words": 69,
+      "chars": 390,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 24,
+      "prev": "hrbitovni_kviti_024.html",
+      "next": "hrbitovni_kviti_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_026.html",
+      "words": 69,
+      "chars": 373,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 25,
+      "prev": "hrbitovni_kviti_025.html",
+      "next": "hrbitovni_kviti_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_027.html",
+      "words": 70,
+      "chars": 410,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 26,
+      "prev": "hrbitovni_kviti_026.html",
+      "next": "hrbitovni_kviti_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_028.html",
+      "words": 91,
+      "chars": 505,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 27,
+      "prev": "hrbitovni_kviti_027.html",
+      "next": "hrbitovni_kviti_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_029.html",
+      "words": 60,
+      "chars": 329,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 28,
+      "prev": "hrbitovni_kviti_028.html",
+      "next": "hrbitovni_kviti_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_030.html",
+      "words": 70,
+      "chars": 377,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 29,
+      "prev": "hrbitovni_kviti_029.html",
+      "next": "hrbitovni_kviti_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_031.html",
+      "words": 74,
+      "chars": 370,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 30,
+      "prev": "hrbitovni_kviti_030.html",
+      "next": "hrbitovni_kviti_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_032.html",
+      "words": 40,
+      "chars": 203,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "hrbitovni_kviti_031.html",
+      "next": "hrbitovni_kviti_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_033.html",
+      "words": 80,
+      "chars": 448,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 32,
+      "prev": "hrbitovni_kviti_032.html",
+      "next": "hrbitovni_kviti_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_034.html",
+      "words": 57,
+      "chars": 287,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 33,
+      "prev": "hrbitovni_kviti_033.html",
+      "next": "hrbitovni_kviti_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_035.html",
+      "words": 35,
+      "chars": 238,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 34,
+      "prev": "hrbitovni_kviti_034.html",
+      "next": "hrbitovni_kviti_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_036.html",
+      "words": 175,
+      "chars": 983,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 35,
+      "prev": "hrbitovni_kviti_035.html",
+      "next": "hrbitovni_kviti_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_037.html",
+      "words": 39,
+      "chars": 236,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 36,
+      "prev": "hrbitovni_kviti_036.html",
+      "next": "hrbitovni_kviti_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_038.html",
+      "words": 61,
+      "chars": 363,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 37,
+      "prev": "hrbitovni_kviti_037.html",
+      "next": "hrbitovni_kviti_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_039.html",
+      "words": 57,
+      "chars": 338,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 38,
+      "prev": "hrbitovni_kviti_038.html",
+      "next": "hrbitovni_kviti_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_040.html",
+      "words": 68,
+      "chars": 378,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "hrbitovni_kviti_039.html",
+      "next": "hrbitovni_kviti_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_041.html",
+      "words": 34,
+      "chars": 202,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 40,
+      "prev": "hrbitovni_kviti_040.html",
+      "next": "hrbitovni_kviti_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_042.html",
+      "words": 67,
+      "chars": 348,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 41,
+      "prev": "hrbitovni_kviti_041.html",
+      "next": "hrbitovni_kviti_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_043.html",
+      "words": 54,
+      "chars": 270,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 42,
+      "prev": "hrbitovni_kviti_042.html",
+      "next": "hrbitovni_kviti_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_044.html",
+      "words": 43,
+      "chars": 237,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 43,
+      "prev": "hrbitovni_kviti_043.html",
+      "next": "hrbitovni_kviti_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_045.html",
+      "words": 74,
+      "chars": 437,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 44,
+      "prev": "hrbitovni_kviti_044.html",
+      "next": "hrbitovni_kviti_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_046.html",
+      "words": 73,
+      "chars": 386,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 45,
+      "prev": "hrbitovni_kviti_045.html",
+      "next": "hrbitovni_kviti_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_047.html",
+      "words": 68,
+      "chars": 358,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 46,
+      "prev": "hrbitovni_kviti_046.html",
+      "next": "hrbitovni_kviti_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_048.html",
+      "words": 31,
+      "chars": 185,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 47,
+      "prev": "hrbitovni_kviti_047.html",
+      "next": "hrbitovni_kviti_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_049.html",
+      "words": 59,
+      "chars": 295,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 48,
+      "prev": "hrbitovni_kviti_048.html",
+      "next": "hrbitovni_kviti_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_050.html",
+      "words": 68,
+      "chars": 395,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 49,
+      "prev": "hrbitovni_kviti_049.html",
+      "next": "hrbitovni_kviti_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_051.html",
+      "words": 43,
+      "chars": 259,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 50,
+      "prev": "hrbitovni_kviti_050.html",
+      "next": "hrbitovni_kviti_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_052.html",
+      "words": 64,
+      "chars": 397,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 51,
+      "prev": "hrbitovni_kviti_051.html",
+      "next": "hrbitovni_kviti_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_053.html",
+      "words": 51,
+      "chars": 292,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 52,
+      "prev": "hrbitovni_kviti_052.html",
+      "next": "hrbitovni_kviti_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_054.html",
+      "words": 66,
+      "chars": 384,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 53,
+      "prev": "hrbitovni_kviti_053.html",
+      "next": "hrbitovni_kviti_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_055.html",
+      "words": 56,
+      "chars": 342,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 54,
+      "prev": "hrbitovni_kviti_054.html",
+      "next": "hrbitovni_kviti_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_056.html",
+      "words": 65,
+      "chars": 360,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 55,
+      "prev": "hrbitovni_kviti_055.html",
+      "next": "hrbitovni_kviti_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_057.html",
+      "words": 49,
+      "chars": 261,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 56,
+      "prev": "hrbitovni_kviti_056.html",
+      "next": "hrbitovni_kviti_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_058.html",
+      "words": 64,
+      "chars": 361,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 57,
+      "prev": "hrbitovni_kviti_057.html",
+      "next": "hrbitovni_kviti_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_059.html",
+      "words": 44,
+      "chars": 260,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 58,
+      "prev": "hrbitovni_kviti_058.html",
+      "next": "hrbitovni_kviti_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_060.html",
+      "words": 28,
+      "chars": 145,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 59,
+      "prev": "hrbitovni_kviti_059.html",
+      "next": "hrbitovni_kviti_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_061.html",
+      "words": 45,
+      "chars": 252,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 60,
+      "prev": "hrbitovni_kviti_060.html",
+      "next": "hrbitovni_kviti_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_062.html",
+      "words": 61,
+      "chars": 376,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 61,
+      "prev": "hrbitovni_kviti_061.html",
+      "next": "hrbitovni_kviti_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_063.html",
+      "words": 71,
+      "chars": 382,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 62,
+      "prev": "hrbitovni_kviti_062.html",
+      "next": "hrbitovni_kviti_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_064.html",
+      "words": 81,
+      "chars": 466,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 63,
+      "prev": "hrbitovni_kviti_063.html",
+      "next": "hrbitovni_kviti_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_065.html",
+      "words": 74,
+      "chars": 414,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 64,
+      "prev": "hrbitovni_kviti_064.html",
+      "next": "hrbitovni_kviti_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII. • Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_066.html",
+      "words": 53,
+      "chars": 263,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 65,
+      "prev": "hrbitovni_kviti_065.html",
+      "next": "hrbitovni_kviti_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřbitovní kvítí",
+      "file": "hrbitovni_kviti_067.html",
+      "words": 46,
+      "chars": 298,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 66,
+      "prev": "hrbitovni_kviti_066.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3980,
+      "chars": 22309,
+      "ideas": 795
+    },
+    "chapters": {
+      "words": 3973,
+      "chars": 22268,
+      "ideas": 790
+    }
+  }
+}

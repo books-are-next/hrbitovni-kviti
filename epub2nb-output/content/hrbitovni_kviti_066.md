@@ -1,8 +1,7 @@
 ---
+title: LII.
 contentType: prose
 ---
-
-LII.
 
 >      Zhlížela se vrba u potoku,  
 > zkalilo se oko bystrých toků —  

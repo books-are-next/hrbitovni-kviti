@@ -1,8 +1,7 @@
 ---
+title: XV.
 contentType: prose
 ---
-
-XV.
 
 >      Mezi hroby dva se červi potkali.  
 > „Odkud, bratře?“ — „Z lebky básníkovy.“  

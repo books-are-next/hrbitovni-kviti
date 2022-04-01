@@ -1,8 +1,7 @@
 ---
+title: XLII.
 contentType: prose
 ---
-
-XLII.
 
 >      Co jest slza? — Skvostná karbunkule  
 > v noci světlem divným zářící,  

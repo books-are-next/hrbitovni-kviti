@@ -1,8 +1,7 @@
 ---
+title: XXXII.
 contentType: prose
 ---
-
-XXXII.
 
 >      V krásném vodojemu vlnky  
 > obraz hvězdný houpají,  

@@ -1,8 +1,7 @@
 ---
+title: XIV.
 contentType: prose
 ---
-
-XIV.
 
 >      Když jsem zpívával co malé dítě  
 > s matkou zbožnou Umučení páně,  

@@ -1,8 +1,7 @@
 ---
+title: XXIII.
 contentType: prose
 ---
-
-XXIII.
 
 >      Poesie žila, dokud každý  
 > snům svým víc než pravdě uvěřil,  

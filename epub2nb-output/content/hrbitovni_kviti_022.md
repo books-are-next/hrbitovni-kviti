@@ -1,8 +1,7 @@
 ---
+title: VIII.
 contentType: prose
 ---
-
-VIII.
 
 >      Nebe šíré obléklo šat šedý,  
 > jak by před kostelem kajíc stálo,  

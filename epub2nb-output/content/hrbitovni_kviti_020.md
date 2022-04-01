@@ -1,8 +1,7 @@
 ---
+title: VI.
 contentType: prose
 ---
-
-VI.
 
 >      Mnozí chválili, že zpívám o chudobě,  
 > že mou píseň soucit pravý znamená, —  

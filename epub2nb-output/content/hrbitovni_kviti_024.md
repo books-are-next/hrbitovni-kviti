@@ -1,8 +1,7 @@
 ---
+title: X.
 contentType: prose
 ---
-
-X.
 
 >      Tichý růvek leží pozapadlý,  
 > vůkol země suchá juž se zbořila:  

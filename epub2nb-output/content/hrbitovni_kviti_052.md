@@ -1,8 +1,7 @@
 ---
+title: XXXVIII.
 contentType: prose
 ---
-
-XXXVIII.
 
 >      Nad rovečkem svírá prkno šedé  
 > malou bytost časně zchřadnulou,  

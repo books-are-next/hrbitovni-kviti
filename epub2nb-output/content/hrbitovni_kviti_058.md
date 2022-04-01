@@ -1,8 +1,7 @@
 ---
+title: XLIV.
 contentType: prose
 ---
-
-XLIV.
 
 >      Na vršíku dům stál bláznů, —  
 > panna tudy chodila,  

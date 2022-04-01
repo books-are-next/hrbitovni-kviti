@@ -1,8 +1,7 @@
 ---
+title: XXIV.
 contentType: prose
 ---
-
-XXIV.
 
 >      Posud písně lásky rozkvétají,  
 > posud plynou v proudu časovém,  

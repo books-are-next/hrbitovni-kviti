@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Zelená se tráva po hřbitově.  
+     _Zelená se tráva po hřbitově._
 
 > Snad jí nasilo zde ptactvo zpěvné?  
 > Naděje spíš že to pohrobené  

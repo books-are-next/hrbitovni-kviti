@@ -1,8 +1,7 @@
 ---
+title: XLIX.
 contentType: prose
 ---
-
-XLIX.
 
 >      Upřímně se bratři zpovídejme,  
 > upřímně si sdělme svoje hříchy,  

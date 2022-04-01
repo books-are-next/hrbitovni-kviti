@@ -1,8 +1,7 @@
 ---
+title: XXXVII.
 contentType: prose
 ---
-
-XXXVII.
 
 >      Nevinnost jest bylina jak vodní,  
 > s větrem po vlnách jenž bludných plove,  

@@ -1,8 +1,7 @@
 ---
+title: IX.
 contentType: prose
 ---
-
-IX.
 
 >      Za mřížemi rovy v stejné řadě,  
 > perly na šňůře jak nehezké,  

@@ -1,8 +1,7 @@
 ---
+title: XXXIII.
 contentType: prose
 ---
-
-XXXIII.
 
 >      Černý vůz se padlým sněhem  
 > kolotavě plouží,  

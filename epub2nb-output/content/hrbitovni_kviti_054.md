@@ -1,8 +1,7 @@
 ---
+title: XL.
 contentType: prose
 ---
-
-XL.
 
 >      Humor jesti kvítko stobarevné,  
 > vzejde v krušných dobách lidstva žití,  
