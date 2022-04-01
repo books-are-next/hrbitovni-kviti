@@ -1,8 +1,7 @@
 ---
+title: XXVI.
 contentType: prose
 ---
-
-XXVI.
 
 >      Co jest láska? Divná smísenina  
 > z citů časně mládí šálících,  

@@ -1,8 +1,7 @@
 ---
+title: XXII.
 contentType: prose
 ---
-
-XXII.
 
 >      Nalákav se prachu z lidské hlíny,  
 > pojav hrobů živou myšlénku,  

@@ -1,8 +1,7 @@
 ---
+title: XLVIII.
 contentType: prose
 ---
-
-XLVIII.
 
 >      Otce, matku, lásku oželíme,  
 > jsou-li pohrobeni zemí svatou,  

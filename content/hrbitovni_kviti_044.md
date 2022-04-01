@@ -1,8 +1,7 @@
 ---
+title: XXX.
 contentType: prose
 ---
-
-XXX.
 
 >      Po mém pohřbu křepčili,  
 > hudba skočnou hrála,  

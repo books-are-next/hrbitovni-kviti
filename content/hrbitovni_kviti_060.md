@@ -1,8 +1,7 @@
 ---
+title: XLVI.
 contentType: prose
 ---
-
-XLVI.
 
 >      Z Kateřinek dlouhý tah se,  
 > černý tah se vleče —  

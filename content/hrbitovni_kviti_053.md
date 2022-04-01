@@ -1,8 +1,7 @@
 ---
+title: XXXIX.
 contentType: prose
 ---
-
-XXXIX.
 
 >      Co jest Země? — Mocná báně  
 > z kostí vetchých, z popele,  

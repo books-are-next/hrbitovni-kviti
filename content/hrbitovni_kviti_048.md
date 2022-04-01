@@ -1,8 +1,7 @@
 ---
+title: XXXIV.
 contentType: prose
 ---
-
-XXXIV.
 
 >      Mnohé srdce milovalo,  
 > láskou blaze kvetlo, —  

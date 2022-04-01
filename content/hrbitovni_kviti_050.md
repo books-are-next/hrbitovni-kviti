@@ -1,8 +1,7 @@
 ---
+title: XXXVI.
 contentType: prose
 ---
-
-XXXVI.
 
 >      Nad rovečkem malým živá kostra sedí,  
 > krásná to kdys žena ve želu:  

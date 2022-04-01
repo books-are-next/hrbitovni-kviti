@@ -1,8 +1,7 @@
 ---
+title: XIII.
 contentType: prose
 ---
-
-XIII.
 
 >      Valí proud se světem bystrý, ostrý,  
 > nekonečnou jeho rovná cesta,  

@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Hřbitovní kvítí
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jan Neruda
   publisher: Městská knihovna v Praze
   modified: '2021-12-20T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - hrbitovni_kviti_001.html
   - hrbitovni_kviti_002.html
@@ -81,6 +85,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

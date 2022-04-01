@@ -1,8 +1,7 @@
 ---
+title: L.
 contentType: prose
 ---
-
-L.
 
 >      Milost! — Můž-li slavík jemný mnohým  
 > krásnějšího slova zapěti?  

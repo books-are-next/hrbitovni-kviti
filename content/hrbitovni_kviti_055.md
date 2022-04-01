@@ -1,8 +1,7 @@
 ---
+title: XLI.
 contentType: prose
 ---
-
-XLI.
 
 >      Smutným náhle oko nevěstino,  
 > smutným celé družstvo svatební,  

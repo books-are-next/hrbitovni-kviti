@@ -1,8 +1,7 @@
 ---
+title: XXXV.
 contentType: prose
 ---
-
-XXXV.
 
 >      Pláče hošík otrhaný:  
 > „Přec se jednou seberu,  

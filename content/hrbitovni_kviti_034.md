@@ -1,8 +1,7 @@
 ---
+title: XX.
 contentType: prose
 ---
-
-XX.
 
 >      Však znám ten lid, jenž nožem hnusné pitvy  
 > si chléb a slávu potem dobývá,  

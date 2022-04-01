@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Porodila rosa kvítek malý  
+     _Porodila rosa kvítek malý_
 
 > po zářivém slunci prahnoucí, —  
 > duch tvůj jarý zrodil ideály  

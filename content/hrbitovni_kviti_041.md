@@ -1,8 +1,7 @@
 ---
+title: XXVII.
 contentType: prose
 ---
-
-XXVII.
 
 >      „Povždy znovu pochybuju,  
 > je-li cudná, je-li čistá,  

@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Byl jsi chud — však bujní tvoji snové  
+     _Byl jsi chud — však bujní tvoji snové_
 
 > nasypali po cestách tvých zlato;  
 > však že zlato sypali ti snové,  

@@ -1,8 +1,7 @@
 ---
+title: XXXI.
 contentType: prose
 ---
-
-XXXI.
 
 >      Krásný obraz manželů dvou svorných!  
 > Jak dvě vrby v jedné vlně obraz svorně koupají,  

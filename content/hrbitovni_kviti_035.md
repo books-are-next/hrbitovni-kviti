@@ -1,8 +1,7 @@
 ---
+title: XXI.
 contentType: prose
 ---
-
-XXI.
 
 >      Zlato chtít snad pozlacovat,  
 > slunce svící osvěcovat,  

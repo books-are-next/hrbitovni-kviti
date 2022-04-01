@@ -1,8 +1,7 @@
 ---
+title: LI.
 contentType: prose
 ---
-
-LI.
 
 >      Strom květ nese, dokud neuchřadne,  
 > lilje voní, dokud neuvadne,  

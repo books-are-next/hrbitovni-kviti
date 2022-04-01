@@ -1,8 +1,7 @@
 ---
+title: XI.
 contentType: prose
 ---
-
-XI.
 
 >      Na hřbitově drobné hoše  
 > za maminkou prozpěvuje,  

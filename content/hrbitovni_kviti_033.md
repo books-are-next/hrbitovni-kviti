@@ -1,8 +1,7 @@
 ---
+title: XIX.
 contentType: prose
 ---
-
-XIX.
 
 >      Jsem-li syn neb cizím Apollinu,  
 > to mou mysl lehko nermoutí,  

@@ -1,8 +1,7 @@
 ---
+title: XVIII.
 contentType: prose
 ---
-
-XVIII.
 
 >      Mnoho bolů v tomto světě,  
 > mnohý vzdech se zachvěje,  

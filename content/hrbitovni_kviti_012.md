@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Zval tě osud k nešťastníků kvasu; —  
+     _Zval tě osud k nešťastníků kvasu; —_
 
 > sotva vyřknul slova neblahá,  
 > (abys slušně obstál při hostině)  

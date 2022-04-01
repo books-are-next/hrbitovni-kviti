@@ -1,8 +1,7 @@
 ---
+title: XLVII.
 contentType: prose
 ---
-
-XLVII.
 
 >      V vlasti jsem a přece divná tužba  
 > svírá prsa těsným okovem,  

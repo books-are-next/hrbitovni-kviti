@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-     Ticho — jako ráno v dálném poli,  
+     _Ticho — jako ráno v dálném poli,_
 
 > kdesi jenom o kov hruda zvoní, —  
 > aj, to stařec, — opřen o lopatu  

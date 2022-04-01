@@ -1,8 +1,7 @@
 ---
+title: III.
 contentType: prose
 ---
-
-III.
 
 >      O Dušičkách ročně konají se  
 > u zemřelých drahých návštěvy,  

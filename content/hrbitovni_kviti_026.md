@@ -1,8 +1,7 @@
 ---
+title: XII.
 contentType: prose
 ---
-
-XII.
 
 >      Stojí ostrov pustý po kraj moře,  
 > na něm v hrobech otců dávné mravy,  

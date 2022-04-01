@@ -1,8 +1,7 @@
 ---
+title: XVI.
 contentType: prose
 ---
-
-XVI.
 
 >      Přede mnou tu leží lebka rozpoltěná,  
 > oko svaté runy lebky čítá,  

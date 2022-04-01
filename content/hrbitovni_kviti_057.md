@@ -1,8 +1,7 @@
 ---
+title: XLIII.
 contentType: prose
 ---
-
-XLIII.
 
 >      Smutek promění nám v sněžné lady  
 > náhle myšlénkové krásné světy,  
