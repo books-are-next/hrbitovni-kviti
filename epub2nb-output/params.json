@@ -40,9 +40,9 @@
             "filename": "hrbitovni_kviti_001.md",
             "xhtml": "hrbitovni_kviti_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "hrbitovni_kviti_002.md",
             "xhtml": "hrbitovni_kviti_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "hrbitovni_kviti_003.md",
             "xhtml": "hrbitovni_kviti_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "hrbitovni_kviti_004.md",
             "xhtml": "hrbitovni_kviti_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "hrbitovni_kviti_006.md",
@@ -105,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "hrbitovni_kviti_007.md",
@@ -117,8 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Hřbitovní kvítí"
           },
           {
             "filename": "hrbitovni_kviti_008.md",
@@ -201,8 +204,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "hrbitovni_kviti_015.md",
@@ -214,7 +218,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I."
           },
           {
             "filename": "hrbitovni_kviti_016.md",
@@ -226,7 +231,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II."
           },
           {
             "filename": "hrbitovni_kviti_017.md",
@@ -238,7 +244,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III."
           },
           {
             "filename": "hrbitovni_kviti_018.md",
@@ -250,7 +257,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV."
           },
           {
             "filename": "hrbitovni_kviti_019.md",
@@ -262,7 +270,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V."
           },
           {
             "filename": "hrbitovni_kviti_020.md",
@@ -274,7 +283,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VI."
           },
           {
             "filename": "hrbitovni_kviti_021.md",
@@ -286,7 +296,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VII."
           },
           {
             "filename": "hrbitovni_kviti_022.md",
@@ -298,7 +309,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VIII."
           },
           {
             "filename": "hrbitovni_kviti_023.md",
@@ -310,7 +322,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IX."
           },
           {
             "filename": "hrbitovni_kviti_024.md",
@@ -322,7 +335,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "X."
           },
           {
             "filename": "hrbitovni_kviti_025.md",
@@ -334,7 +348,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XI."
           },
           {
             "filename": "hrbitovni_kviti_026.md",
@@ -346,7 +361,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XII."
           },
           {
             "filename": "hrbitovni_kviti_027.md",
@@ -358,7 +374,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIII."
           },
           {
             "filename": "hrbitovni_kviti_028.md",
@@ -370,7 +387,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIV."
           },
           {
             "filename": "hrbitovni_kviti_029.md",
@@ -382,7 +400,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XV."
           },
           {
             "filename": "hrbitovni_kviti_030.md",
@@ -394,7 +413,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVI."
           },
           {
             "filename": "hrbitovni_kviti_031.md",
@@ -406,7 +426,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVII."
           },
           {
             "filename": "hrbitovni_kviti_032.md",
@@ -418,7 +439,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVIII."
           },
           {
             "filename": "hrbitovni_kviti_033.md",
@@ -430,7 +452,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIX."
           },
           {
             "filename": "hrbitovni_kviti_034.md",
@@ -442,7 +465,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XX."
           },
           {
             "filename": "hrbitovni_kviti_035.md",
@@ -454,7 +478,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXI."
           },
           {
             "filename": "hrbitovni_kviti_036.md",
@@ -466,7 +491,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXII."
           },
           {
             "filename": "hrbitovni_kviti_037.md",
@@ -478,7 +504,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXIII."
           },
           {
             "filename": "hrbitovni_kviti_038.md",
@@ -490,7 +517,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXIV."
           },
           {
             "filename": "hrbitovni_kviti_039.md",
@@ -502,7 +530,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXV."
           },
           {
             "filename": "hrbitovni_kviti_040.md",
@@ -514,7 +543,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXVI."
           },
           {
             "filename": "hrbitovni_kviti_041.md",
@@ -526,7 +556,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXVII."
           },
           {
             "filename": "hrbitovni_kviti_042.md",
@@ -538,7 +569,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXVIII."
           },
           {
             "filename": "hrbitovni_kviti_043.md",
@@ -550,7 +582,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXIX."
           },
           {
             "filename": "hrbitovni_kviti_044.md",
@@ -562,7 +595,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXX."
           },
           {
             "filename": "hrbitovni_kviti_045.md",
@@ -574,7 +608,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXI."
           },
           {
             "filename": "hrbitovni_kviti_046.md",
@@ -586,7 +621,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXII."
           },
           {
             "filename": "hrbitovni_kviti_047.md",
@@ -598,7 +634,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXIII."
           },
           {
             "filename": "hrbitovni_kviti_048.md",
@@ -610,7 +647,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXIV."
           },
           {
             "filename": "hrbitovni_kviti_049.md",
@@ -622,7 +660,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXV."
           },
           {
             "filename": "hrbitovni_kviti_050.md",
@@ -634,7 +673,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXVI."
           },
           {
             "filename": "hrbitovni_kviti_051.md",
@@ -646,7 +686,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXVII."
           },
           {
             "filename": "hrbitovni_kviti_052.md",
@@ -658,7 +699,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXVIII."
           },
           {
             "filename": "hrbitovni_kviti_053.md",
@@ -670,7 +712,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXXIX."
           },
           {
             "filename": "hrbitovni_kviti_054.md",
@@ -682,7 +725,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XL."
           },
           {
             "filename": "hrbitovni_kviti_055.md",
@@ -694,7 +738,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLI."
           },
           {
             "filename": "hrbitovni_kviti_056.md",
@@ -706,7 +751,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLII."
           },
           {
             "filename": "hrbitovni_kviti_057.md",
@@ -718,7 +764,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLIII."
           },
           {
             "filename": "hrbitovni_kviti_058.md",
@@ -730,7 +777,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLIV."
           },
           {
             "filename": "hrbitovni_kviti_059.md",
@@ -742,7 +790,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLV."
           },
           {
             "filename": "hrbitovni_kviti_060.md",
@@ -754,7 +803,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLVI."
           },
           {
             "filename": "hrbitovni_kviti_061.md",
@@ -766,7 +816,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLVII."
           },
           {
             "filename": "hrbitovni_kviti_062.md",
@@ -778,7 +829,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLVIII."
           },
           {
             "filename": "hrbitovni_kviti_063.md",
@@ -790,7 +842,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XLIX."
           },
           {
             "filename": "hrbitovni_kviti_064.md",
@@ -802,7 +855,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "L."
           },
           {
             "filename": "hrbitovni_kviti_065.md",
@@ -814,7 +868,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "LI."
           },
           {
             "filename": "hrbitovni_kviti_066.md",
@@ -826,21 +881,23 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "LII."
           },
           {
             "filename": "hrbitovni_kviti_067.md",
             "xhtml": "hrbitovni_kviti_067.xhtml",
             "id": 66,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -1322,6 +1379,6 @@
       "user": "books-are-next",
       "repo": "hrbitovni-kviti"
     },
-    "generatedAt": 1648825367998
+    "generatedAt": 1648825860935
   }
 }

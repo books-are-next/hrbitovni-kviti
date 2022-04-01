@@ -2,38 +2,18 @@
   "author": "Jan Neruda",
   "contenttype": "poetry",
   "edition": "beletrie",
-  "identifier": "neruda-hrbitovni-kviti-de2bf22",
+  "identifier": "neruda-hrbitovni-kviti-8d0b3bf",
   "languagecode": "cs",
   "modified": "2021-12-20T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Hřbitovní kvítí",
-  "revision": "de2bf22",
+  "revision": "8d0b3bf",
   "generatedAt": {
-    "date": "Fri Apr 01 2022 15:03:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648825420846
+    "date": "Fri Apr 01 2022 15:11:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648825912471
   },
   "documents": [
-    {
-      "title": "Hřbitovní kvítí",
-      "file": "hrbitovni_kviti_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "hrbitovni_kviti_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Hřbitovní kvítí",
       "file": "hrbitovni_kviti_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "hrbitovni_kviti_001.html",
-      "next": "hrbitovni_kviti_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hřbitovní kvítí",
-      "file": "hrbitovni_kviti_003.html",
-      "words": 4,
-      "chars": 25,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "hrbitovni_kviti_002.html",
-      "next": "hrbitovni_kviti_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hřbitovní kvítí",
-      "file": "hrbitovni_kviti_004.html",
-      "words": 88,
-      "chars": 562,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "hrbitovni_kviti_003.html",
+      "order": 0,
+      "prev": null,
       "next": "hrbitovni_kviti_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "hrbitovni_kviti_004.html",
+      "order": 1,
+      "prev": "hrbitovni_kviti_002.html",
       "next": "hrbitovni_kviti_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 127,
       "ideas": 5,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "hrbitovni_kviti_005.html",
       "next": "hrbitovni_kviti_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 362,
       "ideas": 12,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "hrbitovni_kviti_006.html",
       "next": "hrbitovni_kviti_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 372,
       "ideas": 12,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "hrbitovni_kviti_007.html",
       "next": "hrbitovni_kviti_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 398,
       "ideas": 12,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "hrbitovni_kviti_008.html",
       "next": "hrbitovni_kviti_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 348,
       "ideas": 12,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "hrbitovni_kviti_009.html",
       "next": "hrbitovni_kviti_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 275,
       "ideas": 8,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "hrbitovni_kviti_010.html",
       "next": "hrbitovni_kviti_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 481,
       "ideas": 16,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "hrbitovni_kviti_011.html",
       "next": "hrbitovni_kviti_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 237,
       "ideas": 8,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "hrbitovni_kviti_012.html",
       "next": "hrbitovni_kviti_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 275,
       "ideas": 8,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "hrbitovni_kviti_013.html",
       "next": "hrbitovni_kviti_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 250,
       "ideas": 9,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "hrbitovni_kviti_014.html",
       "next": "hrbitovni_kviti_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 240,
       "ideas": 9,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "hrbitovni_kviti_015.html",
       "next": "hrbitovni_kviti_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 469,
       "ideas": 17,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "hrbitovni_kviti_016.html",
       "next": "hrbitovni_kviti_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 355,
       "ideas": 13,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "hrbitovni_kviti_017.html",
       "next": "hrbitovni_kviti_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 231,
       "ideas": 9,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "hrbitovni_kviti_018.html",
       "next": "hrbitovni_kviti_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 606,
       "ideas": 17,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "hrbitovni_kviti_019.html",
       "next": "hrbitovni_kviti_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 649,
       "ideas": 21,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "hrbitovni_kviti_020.html",
       "next": "hrbitovni_kviti_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 402,
       "ideas": 13,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "hrbitovni_kviti_021.html",
       "next": "hrbitovni_kviti_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 221,
       "ideas": 9,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "hrbitovni_kviti_022.html",
       "next": "hrbitovni_kviti_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 530,
       "ideas": 17,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "hrbitovni_kviti_023.html",
       "next": "hrbitovni_kviti_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 390,
       "ideas": 17,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "hrbitovni_kviti_024.html",
       "next": "hrbitovni_kviti_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 373,
       "ideas": 13,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "hrbitovni_kviti_025.html",
       "next": "hrbitovni_kviti_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 410,
       "ideas": 13,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "hrbitovni_kviti_026.html",
       "next": "hrbitovni_kviti_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 505,
       "ideas": 17,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "hrbitovni_kviti_027.html",
       "next": "hrbitovni_kviti_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 329,
       "ideas": 11,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "hrbitovni_kviti_028.html",
       "next": "hrbitovni_kviti_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 377,
       "ideas": 13,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "hrbitovni_kviti_029.html",
       "next": "hrbitovni_kviti_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 370,
       "ideas": 13,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "hrbitovni_kviti_030.html",
       "next": "hrbitovni_kviti_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 203,
       "ideas": 9,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "hrbitovni_kviti_031.html",
       "next": "hrbitovni_kviti_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 448,
       "ideas": 17,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "hrbitovni_kviti_032.html",
       "next": "hrbitovni_kviti_034.html",
       "toc": [
@@ -681,7 +621,7 @@
       "chars": 287,
       "ideas": 9,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "hrbitovni_kviti_033.html",
       "next": "hrbitovni_kviti_035.html",
       "toc": [
@@ -701,7 +641,7 @@
       "chars": 238,
       "ideas": 10,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "hrbitovni_kviti_034.html",
       "next": "hrbitovni_kviti_036.html",
       "toc": [
@@ -721,7 +661,7 @@
       "chars": 983,
       "ideas": 33,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "hrbitovni_kviti_035.html",
       "next": "hrbitovni_kviti_037.html",
       "toc": [
@@ -741,7 +681,7 @@
       "chars": 236,
       "ideas": 9,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "hrbitovni_kviti_036.html",
       "next": "hrbitovni_kviti_038.html",
       "toc": [
@@ -761,7 +701,7 @@
       "chars": 363,
       "ideas": 13,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "hrbitovni_kviti_037.html",
       "next": "hrbitovni_kviti_039.html",
       "toc": [
@@ -781,7 +721,7 @@
       "chars": 338,
       "ideas": 13,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "hrbitovni_kviti_038.html",
       "next": "hrbitovni_kviti_040.html",
       "toc": [
@@ -801,7 +741,7 @@
       "chars": 378,
       "ideas": 13,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "hrbitovni_kviti_039.html",
       "next": "hrbitovni_kviti_041.html",
       "toc": [
@@ -821,7 +761,7 @@
       "chars": 202,
       "ideas": 9,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "hrbitovni_kviti_040.html",
       "next": "hrbitovni_kviti_042.html",
       "toc": [
@@ -841,7 +781,7 @@
       "chars": 348,
       "ideas": 13,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "hrbitovni_kviti_041.html",
       "next": "hrbitovni_kviti_043.html",
       "toc": [
@@ -861,7 +801,7 @@
       "chars": 270,
       "ideas": 9,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "hrbitovni_kviti_042.html",
       "next": "hrbitovni_kviti_044.html",
       "toc": [
@@ -881,7 +821,7 @@
       "chars": 237,
       "ideas": 13,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "hrbitovni_kviti_043.html",
       "next": "hrbitovni_kviti_045.html",
       "toc": [
@@ -901,7 +841,7 @@
       "chars": 437,
       "ideas": 13,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "hrbitovni_kviti_044.html",
       "next": "hrbitovni_kviti_046.html",
       "toc": [
@@ -921,7 +861,7 @@
       "chars": 386,
       "ideas": 17,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "hrbitovni_kviti_045.html",
       "next": "hrbitovni_kviti_047.html",
       "toc": [
@@ -941,7 +881,7 @@
       "chars": 358,
       "ideas": 17,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "hrbitovni_kviti_046.html",
       "next": "hrbitovni_kviti_048.html",
       "toc": [
@@ -961,7 +901,7 @@
       "chars": 185,
       "ideas": 9,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "hrbitovni_kviti_047.html",
       "next": "hrbitovni_kviti_049.html",
       "toc": [
@@ -981,7 +921,7 @@
       "chars": 295,
       "ideas": 13,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "hrbitovni_kviti_048.html",
       "next": "hrbitovni_kviti_050.html",
       "toc": [
@@ -1001,7 +941,7 @@
       "chars": 395,
       "ideas": 13,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "hrbitovni_kviti_049.html",
       "next": "hrbitovni_kviti_051.html",
       "toc": [
@@ -1021,7 +961,7 @@
       "chars": 259,
       "ideas": 9,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "hrbitovni_kviti_050.html",
       "next": "hrbitovni_kviti_052.html",
       "toc": [
@@ -1041,7 +981,7 @@
       "chars": 397,
       "ideas": 13,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "hrbitovni_kviti_051.html",
       "next": "hrbitovni_kviti_053.html",
       "toc": [
@@ -1061,7 +1001,7 @@
       "chars": 292,
       "ideas": 13,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "hrbitovni_kviti_052.html",
       "next": "hrbitovni_kviti_054.html",
       "toc": [
@@ -1081,7 +1021,7 @@
       "chars": 384,
       "ideas": 13,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "hrbitovni_kviti_053.html",
       "next": "hrbitovni_kviti_055.html",
       "toc": [
@@ -1101,7 +1041,7 @@
       "chars": 342,
       "ideas": 13,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "hrbitovni_kviti_054.html",
       "next": "hrbitovni_kviti_056.html",
       "toc": [
@@ -1121,7 +1061,7 @@
       "chars": 360,
       "ideas": 13,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "hrbitovni_kviti_055.html",
       "next": "hrbitovni_kviti_057.html",
       "toc": [
@@ -1141,7 +1081,7 @@
       "chars": 261,
       "ideas": 9,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "hrbitovni_kviti_056.html",
       "next": "hrbitovni_kviti_058.html",
       "toc": [
@@ -1161,7 +1101,7 @@
       "chars": 361,
       "ideas": 17,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "hrbitovni_kviti_057.html",
       "next": "hrbitovni_kviti_059.html",
       "toc": [
@@ -1181,7 +1121,7 @@
       "chars": 260,
       "ideas": 9,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "hrbitovni_kviti_058.html",
       "next": "hrbitovni_kviti_060.html",
       "toc": [
@@ -1201,7 +1141,7 @@
       "chars": 145,
       "ideas": 9,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "hrbitovni_kviti_059.html",
       "next": "hrbitovni_kviti_061.html",
       "toc": [
@@ -1221,7 +1161,7 @@
       "chars": 252,
       "ideas": 9,
       "role": "chapter",
-      "order": 60,
+      "order": 57,
       "prev": "hrbitovni_kviti_060.html",
       "next": "hrbitovni_kviti_062.html",
       "toc": [
@@ -1241,7 +1181,7 @@
       "chars": 376,
       "ideas": 13,
       "role": "chapter",
-      "order": 61,
+      "order": 58,
       "prev": "hrbitovni_kviti_061.html",
       "next": "hrbitovni_kviti_063.html",
       "toc": [
@@ -1261,7 +1201,7 @@
       "chars": 382,
       "ideas": 13,
       "role": "chapter",
-      "order": 62,
+      "order": 59,
       "prev": "hrbitovni_kviti_062.html",
       "next": "hrbitovni_kviti_064.html",
       "toc": [
@@ -1281,7 +1221,7 @@
       "chars": 466,
       "ideas": 17,
       "role": "chapter",
-      "order": 63,
+      "order": 60,
       "prev": "hrbitovni_kviti_063.html",
       "next": "hrbitovni_kviti_065.html",
       "toc": [
@@ -1301,7 +1241,7 @@
       "chars": 414,
       "ideas": 14,
       "role": "chapter",
-      "order": 64,
+      "order": 61,
       "prev": "hrbitovni_kviti_064.html",
       "next": "hrbitovni_kviti_066.html",
       "toc": [
@@ -1321,9 +1261,9 @@
       "chars": 263,
       "ideas": 9,
       "role": "chapter",
-      "order": 65,
+      "order": 62,
       "prev": "hrbitovni_kviti_065.html",
-      "next": "hrbitovni_kviti_067.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1335,20 +1275,20 @@
       ]
     },
     {
-      "title": "Hřbitovní kvítí",
-      "file": "hrbitovni_kviti_067.html",
-      "words": 46,
-      "chars": 298,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 66,
+      "title": "Tiráž • Hřbitovní kvítí",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 890,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "hrbitovni_kviti_066.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1362,9 +1302,9 @@
       "ideas": 795
     },
     "chapters": {
-      "words": 3973,
-      "chars": 22268,
-      "ideas": 790
+      "words": 3835,
+      "chars": 21383,
+      "ideas": 769
     }
   }
 }
