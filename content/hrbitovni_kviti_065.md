@@ -1,5 +1,5 @@
 ---
-title: LI.
+title: LI\.
 contentType: prose
 ---
 

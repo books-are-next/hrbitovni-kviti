@@ -1,5 +1,5 @@
 ---
-title: XLI.
+title: XLI\.
 contentType: prose
 ---
 

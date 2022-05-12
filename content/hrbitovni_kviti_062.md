@@ -1,5 +1,5 @@
 ---
-title: XLVIII.
+title: XLVIII\.
 contentType: prose
 ---
 

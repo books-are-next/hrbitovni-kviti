@@ -1,5 +1,5 @@
 ---
-title: XLIII.
+title: XLIII\.
 contentType: prose
 ---
 
