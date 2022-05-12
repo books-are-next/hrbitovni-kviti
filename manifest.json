@@ -1,22 +1,83 @@
 {
-  "author": "Jan Neruda",
-  "contenttype": "poetry",
-  "edition": "beletrie",
-  "identifier": "neruda-hrbitovni-kviti-a6d05e6",
-  "languagecode": "cs",
-  "modified": "2021-12-20T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hřbitovní kvítí",
-  "revision": "a6d05e6",
+  "author": "Jan Neruda",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "neruda-hrbitovni-kviti-eb66180",
+  "revision": "eb66180",
+  "readingOrder": [
+    "promo.html",
+    "hrbitovni_kviti_005.html",
+    "hrbitovni_kviti_006.html",
+    "hrbitovni_kviti_007.html",
+    "hrbitovni_kviti_014.html",
+    "hrbitovni_kviti_015.html",
+    "hrbitovni_kviti_016.html",
+    "hrbitovni_kviti_017.html",
+    "hrbitovni_kviti_018.html",
+    "hrbitovni_kviti_019.html",
+    "hrbitovni_kviti_020.html",
+    "hrbitovni_kviti_021.html",
+    "hrbitovni_kviti_022.html",
+    "hrbitovni_kviti_023.html",
+    "hrbitovni_kviti_024.html",
+    "hrbitovni_kviti_025.html",
+    "hrbitovni_kviti_026.html",
+    "hrbitovni_kviti_027.html",
+    "hrbitovni_kviti_028.html",
+    "hrbitovni_kviti_029.html",
+    "hrbitovni_kviti_030.html",
+    "hrbitovni_kviti_031.html",
+    "hrbitovni_kviti_032.html",
+    "hrbitovni_kviti_033.html",
+    "hrbitovni_kviti_034.html",
+    "hrbitovni_kviti_035.html",
+    "hrbitovni_kviti_036.html",
+    "hrbitovni_kviti_037.html",
+    "hrbitovni_kviti_038.html",
+    "hrbitovni_kviti_039.html",
+    "hrbitovni_kviti_040.html",
+    "hrbitovni_kviti_041.html",
+    "hrbitovni_kviti_042.html",
+    "hrbitovni_kviti_043.html",
+    "hrbitovni_kviti_044.html",
+    "hrbitovni_kviti_045.html",
+    "hrbitovni_kviti_046.html",
+    "hrbitovni_kviti_047.html",
+    "hrbitovni_kviti_048.html",
+    "hrbitovni_kviti_049.html",
+    "hrbitovni_kviti_050.html",
+    "hrbitovni_kviti_051.html",
+    "hrbitovni_kviti_052.html",
+    "hrbitovni_kviti_053.html",
+    "hrbitovni_kviti_054.html",
+    "hrbitovni_kviti_055.html",
+    "hrbitovni_kviti_056.html",
+    "hrbitovni_kviti_057.html",
+    "hrbitovni_kviti_058.html",
+    "hrbitovni_kviti_059.html",
+    "hrbitovni_kviti_060.html",
+    "hrbitovni_kviti_061.html",
+    "hrbitovni_kviti_062.html",
+    "hrbitovni_kviti_063.html",
+    "hrbitovni_kviti_064.html",
+    "hrbitovni_kviti_065.html",
+    "hrbitovni_kviti_066.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 15:17:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648826274416
+    "date": "Thu May 12 2022 10:42:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352154079
   },
   "documents": [
     {
-      "title": "Hřbitovní kvítí",
-      "file": "hrbitovni_kviti_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +85,7 @@
       "order": 0,
       "prev": null,
       "next": "hrbitovni_kviti_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Hřbitovní kvítí",
@@ -42,7 +95,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "hrbitovni_kviti_002.html",
+      "prev": "promo.html",
       "next": "hrbitovni_kviti_006.html",
       "toc": [
         {
@@ -115,7 +168,7 @@
       ]
     },
     {
-      "title": "I. • Hřbitovní kvítí",
+      "title": "I.",
       "file": "hrbitovni_kviti_015.html",
       "words": 46,
       "chars": 250,
@@ -135,7 +188,7 @@
       ]
     },
     {
-      "title": "II. • Hřbitovní kvítí",
+      "title": "II.",
       "file": "hrbitovni_kviti_016.html",
       "words": 44,
       "chars": 240,
@@ -155,7 +208,7 @@
       ]
     },
     {
-      "title": "III. • Hřbitovní kvítí",
+      "title": "III.",
       "file": "hrbitovni_kviti_017.html",
       "words": 84,
       "chars": 469,
@@ -175,7 +228,7 @@
       ]
     },
     {
-      "title": "IV. • Hřbitovní kvítí",
+      "title": "IV.",
       "file": "hrbitovni_kviti_018.html",
       "words": 61,
       "chars": 355,
@@ -195,7 +248,7 @@
       ]
     },
     {
-      "title": "V. • Hřbitovní kvítí",
+      "title": "V.",
       "file": "hrbitovni_kviti_019.html",
       "words": 36,
       "chars": 231,
@@ -215,7 +268,7 @@
       ]
     },
     {
-      "title": "VI. • Hřbitovní kvítí",
+      "title": "VI.",
       "file": "hrbitovni_kviti_020.html",
       "words": 110,
       "chars": 606,
@@ -235,7 +288,7 @@
       ]
     },
     {
-      "title": "VII. • Hřbitovní kvítí",
+      "title": "VII.",
       "file": "hrbitovni_kviti_021.html",
       "words": 119,
       "chars": 649,
@@ -255,7 +308,7 @@
       ]
     },
     {
-      "title": "VIII. • Hřbitovní kvítí",
+      "title": "VIII.",
       "file": "hrbitovni_kviti_022.html",
       "words": 76,
       "chars": 402,
@@ -275,7 +328,7 @@
       ]
     },
     {
-      "title": "IX. • Hřbitovní kvítí",
+      "title": "IX.",
       "file": "hrbitovni_kviti_023.html",
       "words": 40,
       "chars": 221,
@@ -295,7 +348,7 @@
       ]
     },
     {
-      "title": "X. • Hřbitovní kvítí",
+      "title": "X.",
       "file": "hrbitovni_kviti_024.html",
       "words": 92,
       "chars": 530,
@@ -315,7 +368,7 @@
       ]
     },
     {
-      "title": "XI. • Hřbitovní kvítí",
+      "title": "XI.",
       "file": "hrbitovni_kviti_025.html",
       "words": 69,
       "chars": 390,
@@ -335,7 +388,7 @@
       ]
     },
     {
-      "title": "XII. • Hřbitovní kvítí",
+      "title": "XII.",
       "file": "hrbitovni_kviti_026.html",
       "words": 69,
       "chars": 373,
@@ -355,7 +408,7 @@
       ]
     },
     {
-      "title": "XIII. • Hřbitovní kvítí",
+      "title": "XIII.",
       "file": "hrbitovni_kviti_027.html",
       "words": 70,
       "chars": 410,
@@ -375,7 +428,7 @@
       ]
     },
     {
-      "title": "XIV. • Hřbitovní kvítí",
+      "title": "XIV.",
       "file": "hrbitovni_kviti_028.html",
       "words": 91,
       "chars": 505,
@@ -395,7 +448,7 @@
       ]
     },
     {
-      "title": "XV. • Hřbitovní kvítí",
+      "title": "XV.",
       "file": "hrbitovni_kviti_029.html",
       "words": 60,
       "chars": 329,
@@ -415,7 +468,7 @@
       ]
     },
     {
-      "title": "XVI. • Hřbitovní kvítí",
+      "title": "XVI.",
       "file": "hrbitovni_kviti_030.html",
       "words": 70,
       "chars": 377,
@@ -435,7 +488,7 @@
       ]
     },
     {
-      "title": "XVII. • Hřbitovní kvítí",
+      "title": "XVII.",
       "file": "hrbitovni_kviti_031.html",
       "words": 74,
       "chars": 370,
@@ -455,7 +508,7 @@
       ]
     },
     {
-      "title": "XVIII. • Hřbitovní kvítí",
+      "title": "XVIII.",
       "file": "hrbitovni_kviti_032.html",
       "words": 40,
       "chars": 203,
@@ -475,7 +528,7 @@
       ]
     },
     {
-      "title": "XIX. • Hřbitovní kvítí",
+      "title": "XIX.",
       "file": "hrbitovni_kviti_033.html",
       "words": 80,
       "chars": 448,
@@ -495,7 +548,7 @@
       ]
     },
     {
-      "title": "XX. • Hřbitovní kvítí",
+      "title": "XX.",
       "file": "hrbitovni_kviti_034.html",
       "words": 57,
       "chars": 287,
@@ -515,7 +568,7 @@
       ]
     },
     {
-      "title": "XXI. • Hřbitovní kvítí",
+      "title": "XXI.",
       "file": "hrbitovni_kviti_035.html",
       "words": 35,
       "chars": 238,
@@ -535,7 +588,7 @@
       ]
     },
     {
-      "title": "XXII. • Hřbitovní kvítí",
+      "title": "XXII.",
       "file": "hrbitovni_kviti_036.html",
       "words": 175,
       "chars": 983,
@@ -555,7 +608,7 @@
       ]
     },
     {
-      "title": "XXIII. • Hřbitovní kvítí",
+      "title": "XXIII.",
       "file": "hrbitovni_kviti_037.html",
       "words": 39,
       "chars": 236,
@@ -575,7 +628,7 @@
       ]
     },
     {
-      "title": "XXIV. • Hřbitovní kvítí",
+      "title": "XXIV.",
       "file": "hrbitovni_kviti_038.html",
       "words": 61,
       "chars": 363,
@@ -595,7 +648,7 @@
       ]
     },
     {
-      "title": "XXV. • Hřbitovní kvítí",
+      "title": "XXV.",
       "file": "hrbitovni_kviti_039.html",
       "words": 57,
       "chars": 338,
@@ -615,7 +668,7 @@
       ]
     },
     {
-      "title": "XXVI. • Hřbitovní kvítí",
+      "title": "XXVI.",
       "file": "hrbitovni_kviti_040.html",
       "words": 68,
       "chars": 378,
@@ -635,7 +688,7 @@
       ]
     },
     {
-      "title": "XXVII. • Hřbitovní kvítí",
+      "title": "XXVII.",
       "file": "hrbitovni_kviti_041.html",
       "words": 34,
       "chars": 202,
@@ -655,7 +708,7 @@
       ]
     },
     {
-      "title": "XXVIII. • Hřbitovní kvítí",
+      "title": "XXVIII.",
       "file": "hrbitovni_kviti_042.html",
       "words": 67,
       "chars": 348,
@@ -675,7 +728,7 @@
       ]
     },
     {
-      "title": "XXIX. • Hřbitovní kvítí",
+      "title": "XXIX.",
       "file": "hrbitovni_kviti_043.html",
       "words": 54,
       "chars": 270,
@@ -695,7 +748,7 @@
       ]
     },
     {
-      "title": "XXX. • Hřbitovní kvítí",
+      "title": "XXX.",
       "file": "hrbitovni_kviti_044.html",
       "words": 43,
       "chars": 237,
@@ -715,7 +768,7 @@
       ]
     },
     {
-      "title": "XXXI. • Hřbitovní kvítí",
+      "title": "XXXI.",
       "file": "hrbitovni_kviti_045.html",
       "words": 74,
       "chars": 437,
@@ -735,7 +788,7 @@
       ]
     },
     {
-      "title": "XXXII. • Hřbitovní kvítí",
+      "title": "XXXII.",
       "file": "hrbitovni_kviti_046.html",
       "words": 73,
       "chars": 386,
@@ -755,7 +808,7 @@
       ]
     },
     {
-      "title": "XXXIII. • Hřbitovní kvítí",
+      "title": "XXXIII.",
       "file": "hrbitovni_kviti_047.html",
       "words": 68,
       "chars": 358,
@@ -775,7 +828,7 @@
       ]
     },
     {
-      "title": "XXXIV. • Hřbitovní kvítí",
+      "title": "XXXIV.",
       "file": "hrbitovni_kviti_048.html",
       "words": 31,
       "chars": 185,
@@ -795,7 +848,7 @@
       ]
     },
     {
-      "title": "XXXV. • Hřbitovní kvítí",
+      "title": "XXXV.",
       "file": "hrbitovni_kviti_049.html",
       "words": 59,
       "chars": 295,
@@ -815,7 +868,7 @@
       ]
     },
     {
-      "title": "XXXVI. • Hřbitovní kvítí",
+      "title": "XXXVI.",
       "file": "hrbitovni_kviti_050.html",
       "words": 68,
       "chars": 395,
@@ -835,7 +888,7 @@
       ]
     },
     {
-      "title": "XXXVII. • Hřbitovní kvítí",
+      "title": "XXXVII.",
       "file": "hrbitovni_kviti_051.html",
       "words": 43,
       "chars": 259,
@@ -855,7 +908,7 @@
       ]
     },
     {
-      "title": "XXXVIII. • Hřbitovní kvítí",
+      "title": "XXXVIII.",
       "file": "hrbitovni_kviti_052.html",
       "words": 64,
       "chars": 397,
@@ -875,7 +928,7 @@
       ]
     },
     {
-      "title": "XXXIX. • Hřbitovní kvítí",
+      "title": "XXXIX.",
       "file": "hrbitovni_kviti_053.html",
       "words": 51,
       "chars": 292,
@@ -895,7 +948,7 @@
       ]
     },
     {
-      "title": "XL. • Hřbitovní kvítí",
+      "title": "XL.",
       "file": "hrbitovni_kviti_054.html",
       "words": 66,
       "chars": 384,
@@ -915,7 +968,7 @@
       ]
     },
     {
-      "title": "XLI. • Hřbitovní kvítí",
+      "title": "XLI.",
       "file": "hrbitovni_kviti_055.html",
       "words": 56,
       "chars": 342,
@@ -935,7 +988,7 @@
       ]
     },
     {
-      "title": "XLII. • Hřbitovní kvítí",
+      "title": "XLII.",
       "file": "hrbitovni_kviti_056.html",
       "words": 65,
       "chars": 360,
@@ -955,7 +1008,7 @@
       ]
     },
     {
-      "title": "XLIII. • Hřbitovní kvítí",
+      "title": "XLIII.",
       "file": "hrbitovni_kviti_057.html",
       "words": 49,
       "chars": 261,
@@ -975,7 +1028,7 @@
       ]
     },
     {
-      "title": "XLIV. • Hřbitovní kvítí",
+      "title": "XLIV.",
       "file": "hrbitovni_kviti_058.html",
       "words": 64,
       "chars": 361,
@@ -995,7 +1048,7 @@
       ]
     },
     {
-      "title": "XLV. • Hřbitovní kvítí",
+      "title": "XLV.",
       "file": "hrbitovni_kviti_059.html",
       "words": 44,
       "chars": 260,
@@ -1015,7 +1068,7 @@
       ]
     },
     {
-      "title": "XLVI. • Hřbitovní kvítí",
+      "title": "XLVI.",
       "file": "hrbitovni_kviti_060.html",
       "words": 28,
       "chars": 145,
@@ -1035,7 +1088,7 @@
       ]
     },
     {
-      "title": "XLVII. • Hřbitovní kvítí",
+      "title": "XLVII.",
       "file": "hrbitovni_kviti_061.html",
       "words": 45,
       "chars": 252,
@@ -1055,7 +1108,7 @@
       ]
     },
     {
-      "title": "XLVIII. • Hřbitovní kvítí",
+      "title": "XLVIII.",
       "file": "hrbitovni_kviti_062.html",
       "words": 61,
       "chars": 376,
@@ -1075,7 +1128,7 @@
       ]
     },
     {
-      "title": "XLIX. • Hřbitovní kvítí",
+      "title": "XLIX.",
       "file": "hrbitovni_kviti_063.html",
       "words": 71,
       "chars": 382,
@@ -1095,7 +1148,7 @@
       ]
     },
     {
-      "title": "L. • Hřbitovní kvítí",
+      "title": "L.",
       "file": "hrbitovni_kviti_064.html",
       "words": 81,
       "chars": 466,
@@ -1115,7 +1168,7 @@
       ]
     },
     {
-      "title": "LI. • Hřbitovní kvítí",
+      "title": "LI.",
       "file": "hrbitovni_kviti_065.html",
       "words": 74,
       "chars": 414,
@@ -1135,7 +1188,7 @@
       ]
     },
     {
-      "title": "LII. • Hřbitovní kvítí",
+      "title": "LII.",
       "file": "hrbitovni_kviti_066.html",
       "words": 53,
       "chars": 263,
@@ -1155,11 +1208,11 @@
       ]
     },
     {
-      "title": "Tiráž • Hřbitovní kvítí",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 890,
-      "ideas": 22,
+      "words": 121,
+      "chars": 753,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "hrbitovni_kviti_066.html",
@@ -1177,9 +1230,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3973,
-      "chars": 22302,
-      "ideas": 795
+      "words": 3955,
+      "chars": 22165,
+      "ideas": 790
     },
     "chapters": {
       "words": 3828,

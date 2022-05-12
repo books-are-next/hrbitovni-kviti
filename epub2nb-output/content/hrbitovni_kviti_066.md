@@ -1,5 +1,5 @@
 ---
-title: LII.
+title: LII\.
 contentType: prose
 ---
 

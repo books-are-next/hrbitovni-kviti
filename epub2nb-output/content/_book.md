@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - hrbitovni_kviti_002.html
+  - promo.html
   - hrbitovni_kviti_005.html
   - hrbitovni_kviti_006.html
   - hrbitovni_kviti_007.html
