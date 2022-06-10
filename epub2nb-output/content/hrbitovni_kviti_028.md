@@ -1,7 +1,9 @@
 ---
 title: XIV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Když jsem zpívával co malé dítě  
 > s matkou zbožnou Umučení páně,  
@@ -22,3 +24,5 @@ contentType: prose
 > neměl za hodné mne dítě více, —  
 > děje lidstva mne pak konejšily,  
 > žetě marně mnohým rozžeh’ svíce.
+
+</section>

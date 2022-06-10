@@ -1,7 +1,9 @@
 ---
 title: XXXIV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Mnohé srdce milovalo,  
 > láskou blaze kvetlo, —  
@@ -12,3 +14,5 @@ contentType: prose
 > srdce v poušť vyvrhlo,  
 > a když v bolu churavělo,  
 > smích si z něho strhlo.
+
+</section>

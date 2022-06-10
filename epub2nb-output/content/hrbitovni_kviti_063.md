@@ -1,7 +1,9 @@
 ---
 title: XLIX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Upřímně se bratři zpovídejme,  
 > upřímně si sdělme svoje hříchy,  
@@ -17,3 +19,5 @@ contentType: prose
 > kde má mluvit, tam je mdlý a tichý,  
 > a kde mluví, tam mu zase vadí —  
 > příliš dobrá vůle, málo pýchy.
+
+</section>

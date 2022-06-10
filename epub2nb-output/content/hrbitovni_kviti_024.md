@@ -1,7 +1,9 @@
 ---
 title: X\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Tichý růvek leží pozapadlý,  
 > vůkol země suchá juž se zbořila:  
@@ -22,3 +24,5 @@ contentType: prose
 > po života různolící planině;  
 > blahýʼs, poutče! bludičky co svůzné  
 > konečně-li s tebou v jámě nezhyne.
+
+</section>

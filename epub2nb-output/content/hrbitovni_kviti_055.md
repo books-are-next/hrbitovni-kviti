@@ -1,7 +1,9 @@
 ---
 title: XLI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Smutným náhle oko nevěstino,  
 > smutným celé družstvo svatební,  
@@ -17,3 +19,5 @@ contentType: prose
 > nepomníš už růže příznivé,  
 > na bolest však, trn-li tebe píchl,  
 > vzpomínají jizvy ošklivé.
+
+</section>

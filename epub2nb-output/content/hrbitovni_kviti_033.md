@@ -1,7 +1,9 @@
 ---
 title: XIX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Jsem-li syn neb cizím Apollinu,  
 > to mou mysl lehko nermoutí,  
@@ -22,3 +24,5 @@ contentType: prose
 > píše „věřím“ v řeku plynoucí,  
 > po pavučinách se k nebi souká,  
 > v sítě chytá stíny hynoucí.
+
+</section>

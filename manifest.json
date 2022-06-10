@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-hrbitovni-kviti-eb66180",
-  "revision": "eb66180",
+  "identifier": "neruda-hrbitovni-kviti-c92cb07",
+  "revision": "c92cb07",
   "readingOrder": [
     "promo.html",
     "hrbitovni_kviti_005.html",
@@ -71,8 +71,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352154079
+    "date": "Fri Jun 10 2022 17:50:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883435428
   },
   "documents": [
     {
@@ -90,9 +90,9 @@
     {
       "title": "Hřbitovní kvítí",
       "file": "hrbitovni_kviti_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 14,
+      "chars": 88,
+      "ideas": 8,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1210,9 +1210,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 753,
-      "ideas": 17,
+      "words": 83,
+      "chars": 542,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "hrbitovni_kviti_066.html",
@@ -1230,14 +1230,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3955,
-      "chars": 22165,
-      "ideas": 790
+      "words": 3931,
+      "chars": 22042,
+      "ideas": 788
     },
     "chapters": {
-      "words": 3828,
-      "chars": 21376,
-      "ideas": 769
+      "words": 3842,
+      "chars": 21464,
+      "ideas": 777
     }
   }
 }

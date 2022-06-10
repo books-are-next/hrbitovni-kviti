@@ -1,10 +1,12 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
 
-     Na pahorku leží pole chudé —  
+<section>
+
+Na pahorku leží pole chudé —  
 
 > ostrov v časů proudu — málo znáno,  
 > jako skříně skvostné na poklady  
@@ -20,9 +22,13 @@ contentType: prose
 > bych zřel místo, čtvrtá zim kde stlala  
 > sabatový šat svůj na přítele.
 
+</section>
 
 
-     Zelená se tráva po hřbitově.  
+
+<section>
+
+Zelená se tráva po hřbitově.  
 
 > Snad jí nasilo zde ptactvo zpěvné?  
 > Naděje spíš že to pohrobené  
@@ -38,9 +44,13 @@ contentType: prose
 > aj ta podoba zlých vášní jistě,  
 > ta z tvých prsou, bratře, nevyrůstá.
 
+</section>
 
 
-     Ticho — jako ráno v dálném poli,  
+
+<section>
+
+Ticho — jako ráno v dálném poli,  
 
 > kdesi jenom o kov hruda zvoní, —  
 > aj, to stařec, — opřen o lopatu  
@@ -56,9 +66,13 @@ contentType: prose
 > neboť věřte, kterým srdce puklo,  
 > že jich leží tuto na tisíc.“
 
+</section>
 
 
-     Porodila rosa kvítek malý  
+
+<section>
+
+Porodila rosa kvítek malý  
 
 > po zářivém slunci prahnoucí, —  
 > duch tvůj jarý zrodil ideály  
@@ -74,9 +88,13 @@ contentType: prose
 > tobě osud dal však jiné věno —  
 > snové prchli, ty jsi uchřadnul.
 
+</section>
 
 
-     Byl jsi chud — však bujní tvoji snové  
+
+<section>
+
+Byl jsi chud — však bujní tvoji snové  
 
 > nasypali po cestách tvých zlato;  
 > však že zlato sypali ti snové,  
@@ -87,9 +105,13 @@ contentType: prose
 > přišel jiný, pustil jsi se v závod,  
 > pustil jsi se v závod — prohrál’s sázku.
 
+</section>
 
 
-     Zval tě osud k nešťastníků kvasu; —  
+
+<section>
+
+Zval tě osud k nešťastníků kvasu; —  
 
 > sotva vyřknul slova neblahá,  
 > (abys slušně obstál při hostině)  
@@ -110,9 +132,13 @@ contentType: prose
 > tu tě uložili v měkké lože,  
 > v lože, kteréž sloulo „nemocí“.
 
+</section>
 
 
-     Líhávali na jednom jsme loži,  
+
+<section>
+
+Líhávali na jednom jsme loži,  
 
 > a tys horlil pro mou netečnost,  
 > kdežto bažit po tvých ideálech  
@@ -122,3 +148,5 @@ contentType: prose
 > tisícerých v krátkém žití bolů,  
 > srdce vadne, brzo, nejspíš brzo  
 > poležíme sobě opět spolu.
+
+</section>

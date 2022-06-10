@@ -1,7 +1,9 @@
 ---
 title: III\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      O Dušičkách ročně konají se  
 > u zemřelých drahých návštěvy,  
@@ -22,3 +24,5 @@ contentType: prose
 > neuměle křížek zrobili  
 > a — by hříčku měla dětská mysl —  
 > lojové kus svíce dobyli.
+
+</section>

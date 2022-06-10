@@ -1,7 +1,9 @@
 ---
 title: VII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Z šedých mračen dešť se hustý lije,  
 > po dláždění voda proudem teče,  
@@ -27,3 +29,5 @@ contentType: prose
 > místo rakvi dají otep slámy, —  
 > však by bez nás také cíle dojel,  
 > také chuďas bez nás došel jámy.“
+
+</section>

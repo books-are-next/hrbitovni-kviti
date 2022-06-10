@@ -1,7 +1,9 @@
 ---
 title: XXXIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Černý vůz se padlým sněhem  
 > kolotavě plouží,  
@@ -22,3 +24,5 @@ contentType: prose
 > kolotavě plouží, —  
 > ještě hana těsnou rakev  
 > staré panně ouží.
+
+</section>

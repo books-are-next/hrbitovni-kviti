@@ -1,7 +1,9 @@
 ---
 title: XLVIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Otce, matku, lásku oželíme,  
 > jsou-li pohrobeni zemí svatou,  
@@ -17,3 +19,5 @@ contentType: prose
 > neví nic a moudře hlavou kývá:  
 > „Neumře-li, buďte bez starostí,  
 > zůstane vám jistě dlouho živa.“
+
+</section>

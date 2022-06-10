@@ -1,7 +1,9 @@
 ---
 title: XXXVIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nad rovečkem svírá prkno šedé  
 > malou bytost časně zchřadnulou,  
@@ -17,3 +19,5 @@ contentType: prose
 > zahřeje je vlastních prsou v hlubinách,  
 > skvějí se, kde sama smrt jen zmírá,  
 > perly rosní po nebeských květinách.
+
+</section>

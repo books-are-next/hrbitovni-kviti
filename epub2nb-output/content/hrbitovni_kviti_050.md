@@ -1,7 +1,9 @@
 ---
 title: XXXVI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nad rovečkem malým živá kostra sedí,  
 > krásná to kdys žena ve želu:  
@@ -17,3 +19,5 @@ contentType: prose
 > jakou osud zpíval píseň jí,  
 > jinde bajader snad zas by v svatých chrámích  
 > hanba její došla zšlechtění.
+
+</section>

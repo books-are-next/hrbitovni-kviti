@@ -1,7 +1,9 @@
 ---
 title: XVIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Mnoho bolů v tomto světě,  
 > mnohý vzdech se zachvěje,  
@@ -12,3 +14,5 @@ contentType: prose
 > mnohá z nich i v chorobě,  
 > však jen jedna ze slz tvoří  
 > perlu v skvoucí údobě.
+
+</section>

@@ -1,7 +1,9 @@
 ---
 title: XXVII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      „Povždy znovu pochybuju,  
 > je-li cudná, je-li čistá,  
@@ -12,3 +14,5 @@ contentType: prose
 > u mne nedůvěra vkvap?“  
 > Klidně přítel odpovídá:  
 > „Protože jsi špatný chlap!“
+
+</section>

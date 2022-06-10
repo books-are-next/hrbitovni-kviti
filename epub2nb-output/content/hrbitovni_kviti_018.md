@@ -1,7 +1,9 @@
 ---
 title: IV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nač zde sklonných vrbin u ohradě  
 > dóm ten pyšný jesti zbudován?  
@@ -17,3 +19,5 @@ contentType: prose
 > v smrti věrnou značí rodinu, —  
 > hrobník klna v dlouhou šachtu metá  
 > zlopověstnou bídnou chudinu.
+
+</section>

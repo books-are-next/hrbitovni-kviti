@@ -1,7 +1,9 @@
 ---
 title: LI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Strom květ nese, dokud neuchřadne,  
 > lilje voní, dokud neuvadne,  
@@ -17,3 +19,5 @@ contentType: prose
 > vždyť si také jednou odpočinu.  
 > Na rozcestí roste pěkné kvítí:  
 > „Že nemusí píseň věčně žíti.“
+
+</section>

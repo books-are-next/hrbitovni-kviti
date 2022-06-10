@@ -1,7 +1,9 @@
 ---
 title: XXII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nalákav se prachu z lidské hlíny,  
 > pojav hrobů živou myšlénku,  
@@ -42,3 +44,5 @@ contentType: prose
 > Pokleknout mně dal duch znamení,  
 > z nitra země v ucho mocně znělo  
 > kyklopických kladiv bušení.
+
+</section>

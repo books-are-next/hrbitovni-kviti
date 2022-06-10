@@ -1,8 +1,10 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _Denn alle Poesie ist tiefes Klagen,  
 Ist des gefangnen Adlers Flügelschlagen,  
@@ -13,3 +15,5 @@ Wenn diese Erde einst ihr Pfingstfest feiert,
 Dann singt die Poesie ihr letztes Lied._
 
 _— ALFRED MEISSNER_
+
+</section>

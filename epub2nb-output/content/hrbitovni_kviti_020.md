@@ -1,7 +1,9 @@
 ---
 title: VI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Mnozí chválili, že zpívám o chudobě,  
 > že mou píseň soucit pravý znamená, —  
@@ -22,3 +24,5 @@ contentType: prose
 > každý den v hrob lístek umí pohřbíti,  
 > dnové, lístky prchnou — hlína déšť ten vpila —  
 > živilʼs se, bys mohl jednou umříti.
+
+</section>

@@ -1,7 +1,9 @@
 ---
 title: XX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Však znám ten lid, jenž nožem hnusné pitvy  
 > si chléb a slávu potem dobývá,  
@@ -12,3 +14,5 @@ contentType: prose
 > kdy trámů třeba, les si cizí skotí,  
 > kdy písek váží, jasný pramen kalí,  
 > kdy kámen láme, sousedův dům zhrotí.
+
+</section>

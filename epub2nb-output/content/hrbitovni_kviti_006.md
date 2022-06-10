@@ -1,12 +1,16 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
 
-     _Der hat’s wahrhaftig als Poet  
+<section>
+
+_Der hat’s wahrhaftig als Poet  
 Nicht hoch hinausgetrieben,  
 In dessen Liedern mehr nicht steht  
 Als er hineingeschrieben._
 
 _— EM. GEIBEL_
+
+</section>

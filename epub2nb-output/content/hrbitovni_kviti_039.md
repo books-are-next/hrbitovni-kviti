@@ -1,7 +1,9 @@
 ---
 title: XXV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Lehko nyní zamilovanému;  
 > co se chuďas dříve navzdychal,  
@@ -17,3 +19,5 @@ contentType: prose
 > nepotřebně ohně nedmýchej,  
 > čti jen otců přecitlivé písně,  
 > a k těm písním sobě povzdychej.
+
+</section>

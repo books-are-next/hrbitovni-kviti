@@ -1,7 +1,9 @@
 ---
 title: XL\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Humor jesti kvítko stobarevné,  
 > vzejde v krušných dobách lidstva žití,  
@@ -17,3 +19,5 @@ contentType: prose
 > nesmějíť se jenom šílení!  
 > Často výsměch chybu ponapravil,  
 > často udusil vtip kvílení.
+
+</section>

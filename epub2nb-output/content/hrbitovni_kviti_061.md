@@ -1,7 +1,9 @@
 ---
 title: XLVII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      V vlasti jsem a přece divná tužba  
 > svírá prsa těsným okovem,  
@@ -12,3 +14,5 @@ contentType: prose
 > cizé citům zvuky kolem znějí,  
 > že bych zaplakal si v domě vlastním  
 > píseň tužby — toužnou Odysseji.
+
+</section>

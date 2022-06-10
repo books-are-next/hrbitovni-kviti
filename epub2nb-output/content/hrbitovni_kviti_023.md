@@ -1,7 +1,9 @@
 ---
 title: IX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Za mřížemi rovy v stejné řadě,  
 > perly na šňůře jak nehezké,  
@@ -12,3 +14,5 @@ contentType: prose
 > řešato dle mého mínění,  
 > aby perel dle jich velikosti  
 > lehčejší kdys bylo dělení.
+
+</section>

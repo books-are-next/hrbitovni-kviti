@@ -1,7 +1,9 @@
 ---
 title: XXX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Po mém pohřbu křepčili,  
 > hudba skočnou hrála,  
@@ -17,3 +19,5 @@ contentType: prose
 > milenku dá máma?“ —  
 > „O tu já se nestarám,  
 > postará se sama.“
+
+</section>
