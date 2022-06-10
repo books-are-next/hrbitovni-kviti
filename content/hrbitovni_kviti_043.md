@@ -1,7 +1,9 @@
 ---
 title: XXIX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Blázny jsem si dělal z hezké děvy,  
 > nazpíval jsem o lásce jí mnoho,  
@@ -12,3 +14,5 @@ contentType: prose
 > jsou teď starší a jsou zcela jiní,  
 > a že blázni lásku pochovali,  
 > zbláznil bych se s chutí sám už nyní.
+
+</section>

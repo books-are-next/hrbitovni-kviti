@@ -1,7 +1,9 @@
 ---
 title: XXXIX\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Co jest Země? — Mocná báně  
 > z kostí vetchých, z popele,  
@@ -17,3 +19,5 @@ contentType: prose
 > skvostný na báň prostřela,  
 > jaký as se děvě dává,  
 > kdy co poupě zemřela.
+
+</section>

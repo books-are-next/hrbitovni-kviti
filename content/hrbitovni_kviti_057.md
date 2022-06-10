@@ -1,7 +1,9 @@
 ---
 title: XLIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Smutek promění nám v sněžné lady  
 > náhle myšlénkové krásné světy,  
@@ -12,3 +14,5 @@ contentType: prose
 > holou zemi mění v živé sady,  
 > a z té půdy poslzené vzrostou  
 > květů myšlénkových jarní vnady.
+
+</section>

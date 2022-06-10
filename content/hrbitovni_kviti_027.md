@@ -1,7 +1,9 @@
 ---
 title: XIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Valí proud se světem bystrý, ostrý,  
 > nekonečnou jeho rovná cesta,  
@@ -17,3 +19,5 @@ contentType: prose
 > Jen zde onde uzříš jako páru  
 > ostrov plynout nad propastí zmaru, —  
 > myšlének to dávných hřbitovy.
+
+</section>

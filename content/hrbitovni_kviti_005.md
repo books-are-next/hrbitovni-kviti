@@ -1,8 +1,10 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _Památce  
 časně zemřelého přítele svého,  
@@ -12,3 +14,5 @@ ANTONÍNU TOLLMANNOVI
    
 věnuje  
                               básník_
+
+</section>

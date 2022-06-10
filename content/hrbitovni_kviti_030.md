@@ -1,7 +1,9 @@
 ---
 title: XVI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Přede mnou tu leží lebka rozpoltěná,  
 > oko svaté runy lebky čítá,  
@@ -17,3 +19,5 @@ contentType: prose
 > ryje mysl v lebku znamení, —  
 > vidíš, brachu, moh’s mít lebku hladší,  
 > méně jen, ach méně myšlení.
+
+</section>

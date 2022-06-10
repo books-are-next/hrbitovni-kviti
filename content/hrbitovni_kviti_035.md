@@ -1,7 +1,9 @@
 ---
 title: XXI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Zlato chtít snad pozlacovat,  
 > slunce svící osvěcovat,  
@@ -12,3 +14,5 @@ contentType: prose
 > toť by bylo rozumnější  
 > nežli tvoje, pěvče _Erbene_,  
 > písně chtít snad písní opěvovat.
+
+</section>

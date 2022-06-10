@@ -1,7 +1,9 @@
 ---
 title: XXXII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      V krásném vodojemu vlnky  
 > obraz hvězdný houpají,  
@@ -22,3 +24,5 @@ contentType: prose
 > pudí mne to z lože ven,  
 > a don Fernan, krásný, mladý,  
 > ten má se mnou stejný sen!“
+
+</section>

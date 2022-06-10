@@ -1,7 +1,9 @@
 ---
 title: XVII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Neplač, neplač, brachu, nenaříkej,  
 > že je záhad v světě k znavení,  
@@ -17,3 +19,5 @@ contentType: prose
 > zpívá s tebou celý tvůj i čas,  
 > která lež tě hnětla, hněsti bude  
 > v jiné formě jiné lidi zas.
+
+</section>

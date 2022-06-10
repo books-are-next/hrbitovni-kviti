@@ -1,7 +1,9 @@
 ---
 title: L\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Milost! — Můž-li slavík jemný mnohým  
 > krásnějšího slova zapěti?  
@@ -22,3 +24,5 @@ contentType: prose
 > jámu, lůžko, jež mne pohostí,  
 > ó, kéž vichr jámu sám zavaje! —  
 > jiných žádných nechci milostí.
+
+</section>

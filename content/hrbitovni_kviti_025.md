@@ -1,7 +1,9 @@
 ---
 title: XI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Na hřbitově drobné hoše  
 > za maminkou prozpěvuje,  
@@ -22,3 +24,5 @@ contentType: prose
 > jsou to myslí pouhé vidy?  
 > Či snad uctivost to k zašlým? —  
 > Nebo pocit vlastní bídy?
+
+</section>

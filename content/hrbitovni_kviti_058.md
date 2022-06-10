@@ -1,7 +1,9 @@
 ---
 title: XLIV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Na vršíku dům stál bláznů, —  
 > panna tudy chodila,  
@@ -22,3 +24,5 @@ contentType: prose
 > dejte pozor na ženské,  
 > byť i písemnictví pošlo —  
 > jen když bude panenské!
+
+</section>

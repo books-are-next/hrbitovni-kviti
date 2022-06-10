@@ -1,7 +1,9 @@
 ---
 title: VIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nebe šíré obléklo šat šedý,  
 > jak by před kostelem kajíc stálo,  
@@ -17,3 +19,5 @@ contentType: prose
 > aniž z hříchů by se nebe kálo, —  
 > dešť to vlažný v kyprou zem se vpíjí,  
 > bychom neměli snad chleba málo!
+
+</section>

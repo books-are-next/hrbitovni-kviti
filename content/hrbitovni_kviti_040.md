@@ -1,7 +1,9 @@
 ---
 title: XXVI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Co jest láska? Divná smísenina  
 > z citů časně mládí šálících,  
@@ -17,3 +19,5 @@ contentType: prose
 > kdy se osud zvrátí větrnatý,  
 > tvoří příroda ty sličné tváře,  
 > sličné tváře, a ty — pěkné šaty.
+
+</section>

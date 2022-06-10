@@ -1,7 +1,9 @@
 ---
 title: XXXVII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nevinnost jest bylina jak vodní,  
 > s větrem po vlnách jenž bludných plove,  
@@ -12,3 +14,5 @@ contentType: prose
 > lehko hlupci býti bez hříchu,  
 > lehko tomu být i beze hříchu,  
 > kdo nepoznal hříchů mocnou pýchu.
+
+</section>

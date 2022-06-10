@@ -1,7 +1,9 @@
 ---
 title: XXIV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Posud písně lásky rozkvétají,  
 > posud plynou v proudu časovém,  
@@ -17,3 +19,5 @@ contentType: prose
 > co kdy nervem chvělo některým,  
 > uskutečněno mní v lásky době —  
 > chvějeť mocně tělem veškerým.
+
+</section>

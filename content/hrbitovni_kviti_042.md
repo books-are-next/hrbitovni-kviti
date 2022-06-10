@@ -1,7 +1,9 @@
 ---
 title: XXVIII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Láska shořela jak tenká svíce,  
 > která ve průvanu zaplála,  
@@ -17,3 +19,5 @@ contentType: prose
 > mohʼ jsem klidně zůstat seděti,  
 > o utopení že ani zdání,  
 > mohʼ jsem tenkráte juž věděti.
+
+</section>

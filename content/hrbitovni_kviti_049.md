@@ -1,7 +1,9 @@
 ---
 title: XXXV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Pláče hošík otrhaný:  
 > „Přec se jednou seberu,  
@@ -17,3 +19,5 @@ contentType: prose
 > Odejel mil na tisíc,  
 > o maminku nedbá juž,  
 > má prý mam těch ještě víc.“
+
+</section>

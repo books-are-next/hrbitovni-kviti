@@ -1,7 +1,9 @@
 ---
 title: XLII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Co jest slza? — Skvostná karbunkule  
 > v noci světlem divným zářící,  
@@ -17,3 +19,5 @@ contentType: prose
 > stříbra zář to modrem ztopená,  
 > tisícerých chová v sobě světel,  
 > tisícerých světel bez jména.
+
+</section>

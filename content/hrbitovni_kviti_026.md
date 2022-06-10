@@ -1,7 +1,9 @@
 ---
 title: XII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Stojí ostrov pustý po kraj moře,  
 > na něm v hrobech otců dávné mravy,  
@@ -17,3 +19,5 @@ contentType: prose
 > myšlénky se zbledlé ubytují, — —  
 > ba se schovávají, že jich ztráty —  
 > a to právem — vnuci nelitují.
+
+</section>

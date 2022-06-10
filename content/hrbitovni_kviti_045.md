@@ -1,7 +1,9 @@
 ---
 title: XXXI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Krásný obraz manželů dvou svorných!  
 > Jak dvě vrby v jedné vlně obraz svorně koupají,  
@@ -17,3 +19,5 @@ contentType: prose
 > jeden líně jde a druhý skáče,  
 > jeden vpravo, druhý vlevo tíhne,  
 > jeden zpívá si, kdy druhý pláče.
+
+</section>

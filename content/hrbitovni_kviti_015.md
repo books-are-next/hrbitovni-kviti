@@ -1,7 +1,9 @@
 ---
 title: I\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Jaký bujný ples na živém stromu!  
 > Každý lístek k jinému lne pólu;  
@@ -12,3 +14,5 @@ contentType: prose
 > života jarého obraz věrný;  
 > o Dušičkách ale dávno vryla  
 > na každý list smrt svůj obraz černý.
+
+</section>

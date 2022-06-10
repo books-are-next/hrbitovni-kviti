@@ -1,7 +1,9 @@
 ---
 title: V\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Bleskovodům společenských bouří,  
 > mučedníkům našich osudů,  
@@ -12,3 +14,5 @@ contentType: prose
 > v šachtu stlali jeho chudobu,  
 > nezaslouženou tu jeho bídu,  
 > bolestnou tu hladu porobu.
+
+</section>

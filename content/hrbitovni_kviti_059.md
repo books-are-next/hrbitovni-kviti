@@ -1,7 +1,9 @@
 ---
 title: XLV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Nad blázincem věž se štíhlá vzpíná,  
 > jako pomoc z nebes dálných vzývá,  
@@ -12,3 +14,5 @@ contentType: prose
 > což jsou matkobijci mezi nimi? —  
 > Ovšem! — Chtěli nad věhlasnou matku,  
 > nad přírodu býti moudřejšími.
+
+</section>

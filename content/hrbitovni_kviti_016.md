@@ -1,7 +1,9 @@
 ---
 title: II\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      O Dušičkách na hřbitově větřík  
 > vesele si s lidmi zahrává,  
@@ -12,3 +14,5 @@ contentType: prose
 > snad to matčin prach tě uspává,  
 > neb co upomínka na hry dětské  
 > bratrův popel s tebou pohrává!
+
+</section>

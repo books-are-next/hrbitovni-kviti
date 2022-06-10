@@ -1,7 +1,9 @@
 ---
 title: XLVI\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Z Kateřinek dlouhý tah se,  
 > černý tah se vleče —  
@@ -12,3 +14,5 @@ contentType: prose
 > moudrého cos mají,  
 > moudrého co mají? —  
 > Umírají.
+
+</section>

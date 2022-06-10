@@ -1,7 +1,9 @@
 ---
 title: LII\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 >      Zhlížela se vrba u potoku,  
 > zkalilo se oko bystrých toků —  
@@ -12,3 +14,5 @@ contentType: prose
 > vždyť i led má svoje něžné kvítí; —  
 > pěknýmť bodlák v růžovém i sadě, —  
 > proč by nemoh’ též své trní míti?
+
+</section>
