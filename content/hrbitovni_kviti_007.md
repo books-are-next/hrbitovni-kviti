@@ -25,7 +25,6 @@ Na pahorku leží pole chudé —
 </section>
 
 
-
 <section>
 
 Zelená se tráva po hřbitově.  
@@ -45,8 +44,6 @@ Zelená se tráva po hřbitově.
 > ta z tvých prsou, bratře, nevyrůstá.
 
 </section>
-
-
 
 <section>
 
@@ -68,8 +65,6 @@ Ticho — jako ráno v dálném poli,
 
 </section>
 
-
-
 <section>
 
 Porodila rosa kvítek malý  
@@ -90,8 +85,6 @@ Porodila rosa kvítek malý
 
 </section>
 
-
-
 <section>
 
 Byl jsi chud — však bujní tvoji snové  
@@ -106,8 +99,6 @@ Byl jsi chud — však bujní tvoji snové
 > pustil jsi se v závod — prohrál’s sázku.
 
 </section>
-
-
 
 <section>
 
@@ -133,8 +124,6 @@ Zval tě osud k nešťastníků kvasu; —
 > v lože, kteréž sloulo „nemocí“.
 
 </section>
-
-
 
 <section>
 

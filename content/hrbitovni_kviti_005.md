@@ -13,6 +13,6 @@ nezapomenutelnému
 ANTONÍNU TOLLMANNOVI  
    
 věnuje  
-                              básník_
+            básník_
 
 </section>
