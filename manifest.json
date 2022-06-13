@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-hrbitovni-kviti-1984323",
-  "revision": "1984323",
+  "identifier": "neruda-hrbitovni-kviti-789b158",
+  "revision": "789b158",
   "readingOrder": [
     "promo.html",
     "hrbitovni_kviti_005.html",
@@ -71,8 +71,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:01:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948898422
+    "date": "Mon Jun 13 2022 21:53:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157223877
   },
   "documents": [
     {
@@ -1210,9 +1210,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 542,
-      "ideas": 7,
+      "words": 116,
+      "chars": 719,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "hrbitovni_kviti_066.html",
@@ -1230,9 +1230,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3931,
-      "chars": 22042,
-      "ideas": 788
+      "words": 3964,
+      "chars": 22219,
+      "ideas": 797
     },
     "chapters": {
       "words": 3842,
