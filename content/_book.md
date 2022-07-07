@@ -71,7 +71,7 @@ readingOrder:
   - hrbitovni_kviti_064.html
   - hrbitovni_kviti_065.html
   - hrbitovni_kviti_066.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
