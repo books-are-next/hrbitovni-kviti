@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-hrbitovni-kviti-71ed958",
-  "revision": "71ed958",
+  "identifier": "neruda-hrbitovni-kviti-8d7171a",
+  "revision": "8d7171a",
   "readingOrder": [
     "promo.html",
     "hrbitovni_kviti_005.html",
@@ -71,8 +71,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:54:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924097251
+    "date": "Fri Oct 07 2022 14:03:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151402976
   },
   "documents": [
     {
