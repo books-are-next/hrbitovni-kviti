@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-hrbitovni-kviti-8d7171a",
-  "revision": "8d7171a",
+  "identifier": "neruda-hrbitovni-kviti-d4e88e3",
+  "revision": "d4e88e3",
   "readingOrder": [
     "promo.html",
     "hrbitovni_kviti_005.html",
@@ -71,8 +71,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:03:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151402976
+    "date": "Mon Oct 10 2022 15:55:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417347497
   },
   "documents": [
     {
@@ -1211,7 +1211,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 826,
+      "chars": 827,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -1231,7 +1231,7 @@
   "totals": {
     "all": {
       "words": 3975,
-      "chars": 22326,
+      "chars": 22327,
       "ideas": 794
     },
     "chapters": {
